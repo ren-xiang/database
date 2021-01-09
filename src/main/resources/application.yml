@@ -1,0 +1,7 @@
+Spring:
+  thymeleaf:
+    mode: HTML
+  profiles:
+    active: dev
+server:
+  port: 8008
